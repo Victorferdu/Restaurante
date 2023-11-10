@@ -1,0 +1,61 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 20px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #fff;
+  font-weight: bold;
+}
+
+#hero {
+  background-image: url("hero-image.jpg");
+  background-size: cover;
+  color: #fff;
+  text-align: center;
+  padding: 50px;
+}
+
+#menu {
+  background-color: #f4f4f4;
+  padding: 50px;
+}
+
+.dish {
+  margin-bottom: 30px;
+}
+
+.dish img {
+  width: 50%;
+  border-radius: 8px;
+}
+
+#about,
+#contact {
+  padding: 50px;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+}
